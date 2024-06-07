@@ -1,5 +1,5 @@
 .bg-image{
-    background-image: url(./images/star_bg.webp);
+    background-image: url(../../public/images/star_bg.webp);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
